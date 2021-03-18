@@ -1,5 +1,9 @@
 # yolov4test
 
+## Minimum requirements
+* librealsense 2.29.0
+* OpenCV 4.4.0
+
 ## Preliminary operations
 
 First, load the weight file from [hear](https://drive.google.com/drive/folders/1XYIXBgzzLha0lCn7QxqOpQbrOh4AdZ8Z?usp=sharing), and put it in the data folder.
