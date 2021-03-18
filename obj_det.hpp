@@ -134,7 +134,7 @@ Net loadNet(){
     net.setPreferableBackend(backend);
     net.setPreferableTarget(target);
 
-    //Stampa nomi dei layers
+    //Print layers names
     /*std::vector<std::string> names = net.getLayerNames();
     for(int i =0; i < names.size(); i++){
         std::cout << names[i] << std::endl;
@@ -224,7 +224,6 @@ int detect(bool oneImage, Mat& result_l, Mat& result_r, Net net, pipeline pipe)
         //pc.map_to(color_frame);
         //points = pc.calculate(depth_frame);
         
-        //std::cout << "Line 222";
         //COLOR
     
         auto frame = frame_to_mat(color_frame);
