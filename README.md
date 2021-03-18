@@ -7,7 +7,7 @@ The repository makes a YOLOV4 hole detection with grayscale images from a Intel 
 
 ## Preliminary operations
 
-First, load the weight file from [hear](https://drive.google.com/drive/folders/1XYIXBgzzLha0lCn7QxqOpQbrOh4AdZ8Z?usp=sharing), and put it in the data folder.
+First, load the weight file from [hear](https://drive.google.com/file/d/107zLnzrrfdNwuWvCqO0OsIu0qvgIbWuA/view?usp=sharing), and put it in the data folder.
 
 ## How to execute
 
