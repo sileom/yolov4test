@@ -1,4 +1,5 @@
-# yolov4test
+# YoloV4 Test
+The repository makes a YOLOV4 hole detection in grayscale images from a Intel Realsense D435 device.
 
 ## Minimum requirements
 * librealsense 2.29.0
