@@ -110,9 +110,9 @@ private:
 #endif  // CV_CXX11
 
 Net loadNet(){
-    const std::string weigthsFile = "/home/labarea/Scrivania/CODICI/testYolo4HoleGrayCpp/data/hole_2000.weights";
-    const std::string cfgFile = "/home/labarea/Scrivania/CODICI/testYolo4HoleGrayCpp/data/hole.cfg";
-    const std::string classesFile = "/home/labarea/Scrivania/CODICI/testYolo4HoleGrayCpp/data/hole.names";
+    const std::string weigthsFile = "data/hole_2000.weights";
+    const std::string cfgFile = "data/hole.cfg";
+    const std::string classesFile = "data/hole.names";
 
     std::string modelPath = weigthsFile;
     std::string configPath = cfgFile;
